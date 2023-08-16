@@ -7,7 +7,7 @@ export default function Home() {
 
     return (
         <main>
-            <h1>Subject List!!!!!</h1>
+            <h1>Subject List!!!!!@@@@</h1>
             <ul>
                 {data && data.map(subject => {
                     let subjectEnabled: string;
